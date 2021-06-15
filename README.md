@@ -1,0 +1,10 @@
+Consumir una Api Rest con Android
+
+UNIVERSIDAD MAYOR DE SAN ANDRES
+F.C.P.N - INFORMATICA
+INF 325 PROGRAMACION VIRTUAL
+
+Docente 
+Lic. ZEBALLOS DAZA REYNALDO JAVIER
+
+- Univ. Freddy Alejandro Quea Cama
